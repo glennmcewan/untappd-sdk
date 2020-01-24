@@ -1,2 +1,2 @@
-# untappd-sdk
-Untappd PHP SDK - a PHP package to interact with Untappd's API
+# Untappd SDK for PHP
+Untappd SDK for PHP - a PHP package to interact with Untappd's API

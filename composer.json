@@ -1,0 +1,15 @@
+{
+    "name": "glennmcewan/untappd-sdk",
+    "description": "Untappd SDK for PHP - a PHP package to interact with Untappd's API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Glenn McEwan",
+            "email": "glenn@web-dev.ninja"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
